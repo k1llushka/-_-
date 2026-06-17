@@ -52,9 +52,9 @@
 - .NET 6.0 SDK or newer
 - Git (optional)
 
-### 1. Clone Repository
 
 ```bash
 git clone https://github.com/k1llushka/-_-.git
 cd -_-
+dotnet run
 ```
